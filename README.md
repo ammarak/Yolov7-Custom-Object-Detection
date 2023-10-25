@@ -2,5 +2,5 @@
 Using yolov7 for custom object detection on Hard Helmet Dataset
 
 
-![wick](https://github.com/ammarak/Yolov7-Custom-Object-Detection/assets/53859857/be70be43-50f3-4656-88af-823f0241b24c)
 
+![wick](https://github.com/ammarak/Yolov7-Custom-Object-Detection/assets/53859857/a49f3108-6f6f-4211-b31f-6c6c96186f07)
